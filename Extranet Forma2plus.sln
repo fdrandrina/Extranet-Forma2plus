@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Extranet Forma2plus", "Extranet Forma2plus\Extranet Forma2plus.fsproj", "{5FB2D5DE-3788-4A1B-83A8-01F5F732A90D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FB2D5DE-3788-4A1B-83A8-01F5F732A90D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB2D5DE-3788-4A1B-83A8-01F5F732A90D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB2D5DE-3788-4A1B-83A8-01F5F732A90D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB2D5DE-3788-4A1B-83A8-01F5F732A90D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEC6183B-21ED-426B-9EAA-86B20862E02A}
+	EndGlobalSection
+EndGlobal
